@@ -1,1 +1,0 @@
-import{r}from"./slot.143458e4.js";import{k as e,b as t,c as s}from"./entry.06b29e0d.js";import"./node.e4a9c3bc.js";const a={},c={class:"max-w-full overflow-x-auto"};function n(o,l){return t(),s("pre",c,[r(o.$slots,"default",{unwrap:"p"})])}const m=e(a,[["render",n]]);export{m as default};
